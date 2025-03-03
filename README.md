@@ -16,4 +16,4 @@ A sleek and modern photography website with an interactive sidebar menu and stun
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/omkar-1128/Photography.git
+   git clone https://github.com/Omkar-1128/Photography.git
